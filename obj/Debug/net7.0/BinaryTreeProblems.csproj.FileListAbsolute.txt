@@ -1,0 +1,15 @@
+D:\BinaryTreeProblems\bin\Debug\net7.0\BinaryTreeProblems.exe
+D:\BinaryTreeProblems\bin\Debug\net7.0\BinaryTreeProblems.deps.json
+D:\BinaryTreeProblems\bin\Debug\net7.0\BinaryTreeProblems.runtimeconfig.json
+D:\BinaryTreeProblems\bin\Debug\net7.0\BinaryTreeProblems.dll
+D:\BinaryTreeProblems\bin\Debug\net7.0\BinaryTreeProblems.pdb
+D:\BinaryTreeProblems\obj\Debug\net7.0\BinaryTreeProblems.csproj.AssemblyReference.cache
+D:\BinaryTreeProblems\obj\Debug\net7.0\BinaryTreeProblems.GeneratedMSBuildEditorConfig.editorconfig
+D:\BinaryTreeProblems\obj\Debug\net7.0\BinaryTreeProblems.AssemblyInfoInputs.cache
+D:\BinaryTreeProblems\obj\Debug\net7.0\BinaryTreeProblems.AssemblyInfo.cs
+D:\BinaryTreeProblems\obj\Debug\net7.0\BinaryTreeProblems.csproj.CoreCompileInputs.cache
+D:\BinaryTreeProblems\obj\Debug\net7.0\BinaryTreeProblems.dll
+D:\BinaryTreeProblems\obj\Debug\net7.0\refint\BinaryTreeProblems.dll
+D:\BinaryTreeProblems\obj\Debug\net7.0\BinaryTreeProblems.pdb
+D:\BinaryTreeProblems\obj\Debug\net7.0\BinaryTreeProblems.genruntimeconfig.cache
+D:\BinaryTreeProblems\obj\Debug\net7.0\ref\BinaryTreeProblems.dll
