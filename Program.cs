@@ -67,10 +67,11 @@ namespace BinaryTreeProblems
             tree.root.right.left=new Node(3);
             tree.root.right.right=new Node(4);
             tree.Inorder(tree.root);
+            Console.Write("\n");
             Problems.IterativeOrder order=new IterativeOrder();
-            List<int> result=order.InOrder(tree.root);
+            List<int> result=order.PostOrder(tree.root);
             foreach(int val in result){
-                Console.WriteLine(val);
+                Console.Write(val+" ");
             }
         }
 
