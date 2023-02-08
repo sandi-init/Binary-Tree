@@ -1,7 +1,4 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using BinaryTreeProblems.Problems;
 namespace BinaryTreeProblems
 {
     public class Node
@@ -70,6 +67,11 @@ namespace BinaryTreeProblems
             tree.root.right.left=new Node(3);
             tree.root.right.right=new Node(4);
             tree.Inorder(tree.root);
+            Problems.IterativeOrder order=new IterativeOrder();
+            List<int> result=order.InOrder(tree.root);
+            foreach(int val in result){
+                Console.WriteLine(val);
+            }
         }
 
        
